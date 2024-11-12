@@ -1,12 +1,12 @@
- :::dark-mode
+  :::dark-mode
   :::
-  # Anonymos
+  # Paper Title
   :::author
-  [X](person_website_link), [Y](person_website_link), [Z](person_website_link), [R](person_website_link)
+  [First Author^1^](person_website_link), [Second Author^2^](person_website_link), [Third Author^2^](person_website_link)
   :::
   
   :::institution
-  <span>^1^Hong Kong University of Science and Technology (Guangzhou),</span>
+  <span>^1^Foo Bar Institution,</span> <span>^2^Foo Bar University</span>
   :::
   
   :::button
